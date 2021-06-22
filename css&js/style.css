@@ -1,0 +1,126 @@
+
+h1, h2 , h3, h4, h5, h6, p, a, span, del {
+    font-family: Raleway;
+    letter-spacing: 1px;
+}
+a{
+    text-decoration: none;
+}
+a.navbar-brand {
+    width: 100px;
+}
+
+img.img-fluid {
+    height: 60px;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    margin: 0;
+    padding: 0;
+}
+.carousel-item {
+    height: 700px;
+}
+img{
+    height: 100%;
+}
+
+/* about me section */
+
+
+.about_Me{
+    width: 100%;
+}
+hr#horizontal {
+        width: 100px;
+        margin: auto;
+        height: 2px;
+        color: #0020ff;
+}
+
+/* sirvices section */
+
+img#service_Img {
+    max-height: 620px;
+    align-items: center;
+    width: 100%;
+}
+
+
+/* bg image section */
+
+.bg-img{
+    width: 100%;
+    height: 651px;
+    background: url(../img/bg-Logo.png);
+    margin-left: 1px;
+}
+.my_p{
+    font-size: 15px;
+    padding-top: 6px;
+    color: white;
+}
+.bg-img .my_h1{
+    color: white;
+    height: 0;
+    margin-top: 50px;
+}
+#bg-content{
+    height: 0;
+    margin-top: -40px;
+}
+
+
+/* Clinet section */
+
+
+img#client-3 {
+    max-height: 149px;
+}
+div#image i {
+    padding: 5px;
+    font-size: 20px;
+}
+div#image img {
+    border-radius: 5px;
+}
+img#client-3 {
+    border-radius: 15px !important;
+}
+div#budget_content-1, div#budget_content-2, div#budget_content-3 {
+    border-radius: 15px;
+}
+
+/* footer section */
+
+.footer-content {
+    margin-left: 50px;
+}
+
+.footer-content a i {
+    padding: 5px;
+    font-size: 20px;
+}
+.footercontactinfo {
+    margin-left: 50px;
+}
+
+.footer-linkinfo {
+    margin-left: 50px;
+}
+
+
+/* back to top */
+
+div#backtoTop {
+    position: relative;
+}
+
+.backtoTop-content {
+    position: fixed;
+    right: 22px;
+    bottom: 35px;
+}
+.backtoTop-content a {
+    display: none;
+}
